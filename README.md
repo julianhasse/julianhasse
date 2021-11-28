@@ -1,11 +1,14 @@
-## About me
+### Hello!
 
 ![Name](https://img.shields.io/badge/JULIAN%20HASSE-UX%20DESIGNER-red)
 ![Country](https://img.shields.io/badge/North%20Carolina-USA-blue)
 ![Twitter Follow](https://img.shields.io/twitter/follow/julianhasse?style=social)
 
+###
+- 🔭 I’m UI/UX Designer at Labcorp
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 📫 How to reach me: info@julianhasse.com
 
-## ⚡ Technologies
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
