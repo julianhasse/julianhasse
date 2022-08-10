@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/julianhasse?style=social)
 
 ###
-- 🔭 I’m Design Expert at United States Digital Services / USDS
+- 🔭 I’m a Design Expert at United States Digital Services / USDS
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: info@julianhasse.com
 
