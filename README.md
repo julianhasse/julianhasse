@@ -10,7 +10,7 @@
 - 📫 How to reach me: info@julianhasse.com
 
 ### AI Models
-- Claude Code
+- ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 - Cursor
 - Gemini
 - ChatGpt
