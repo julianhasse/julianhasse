@@ -12,7 +12,7 @@
 ### AI Models
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
-[![Built with Cursor](https://shields.io)](https://cursor.com/)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### AI Agents
 ![Hermes](https://img.shields.io/badge/Hermes-AI-blue)
