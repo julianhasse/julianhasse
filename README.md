@@ -12,12 +12,12 @@
 ### AI Models
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-373737?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 
-### AI Agents
+### AI Agents & Tools
 ![Hermes](https://img.shields.io/badge/Hermes-AI-blue)
+![Cursor](https://img.shields.io/badge/Cursor-373737?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
