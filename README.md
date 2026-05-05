@@ -9,6 +9,14 @@
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: info@julianhasse.com
 
+### AI Models
+- Claude Code
+- Cursor
+- Gemini
+- ChatGpt
+
+### AI Agents
+- Hermes Agent
 
 ### Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
