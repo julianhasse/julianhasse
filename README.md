@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/julianhasse?style=social)
 
 ###
-- 🔭 I’m a Lead UX Designer @ Labcorp, USA 
+- 🔭 I’m a Lead UI/UX Designer @ Labcorp, USA 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: info@julianhasse.com
 
