@@ -16,7 +16,7 @@
 
 
 ### AI Agents & Tools
-![Hermes](https://img.shields.io/badge/Hermes-AI-blue)
+![Hermes Agent](https://img.shields.io/badge/Hermes-CD7F32?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-373737?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Design
